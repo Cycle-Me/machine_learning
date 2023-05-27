@@ -1,0 +1,6 @@
+After I commited from github desktop its still not resolve.
+Because in github there's limited files which we can't put it to much over than 1,000 files.
+And for folder Paper and Cardboard there's already 1,000 files.
+
+GitHub say like this :
+Sorry, we had to truncate this directory to 1,000 files. 597 entries were omitted from the list.
