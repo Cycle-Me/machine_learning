@@ -1,7 +1,4 @@
-# import os
 from flask import Flask, jsonify, request
-# from keras.utils import load_img, img_to_array
-# import tensorflow_hub as tfhub
 from PIL import Image
 import numpy as np
 from keras.models import load_model
@@ -32,6 +29,11 @@ def preprocess_image(image):
 # Initializing flask application
 app = Flask(__name__)
 
+@app.route("/")
+def main():
+    return """
+        Response Successful!
+    """
 
 @app.route('/predict', methods=['POST'])
 def predict():
@@ -53,4 +55,4 @@ def predict():
 
 
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True)
