@@ -1,0 +1,18 @@
+// GET ALL CATEGORIES RECOMENDATION
+###
+GET localhost:5000
+
+
+
+
+
+// GET THE RECOMENDATION DEPENDS ON CATEGORY
+###
+POST localhost:5000
+Content-Type: application/json
+
+{
+  "category": "Plastic"
+}
+
+
