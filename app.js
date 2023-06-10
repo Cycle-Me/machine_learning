@@ -1,10 +1,10 @@
 const express = require("express");
 const cors = require("cors");
-  
+
 const app = express();
 app.use(express.json());
 app.use(cors());
-  
+
 const waste = [
   {
     name: "Plastic",
@@ -495,29 +495,29 @@ const waste = [
     ],
   },
 ];
-  
+
 app.get("/", (req, res) => {
   res.status(200).send(waste);
 });
-  
+
 app.post("/", (req, res) => {
   const category = req.body.category;
   if (!category) {
     res.status(401).send({ message: "category tidak boleh kosong" });
     return;
   }
-  
+
   const result = waste.find((item) => item.name === category);
   if (!result) {
     res.status(404).send({ message: "category tidak ditemukan" });
     return;
   }
-  
+
   res.status(200).send(result.recomendation);
 });
-  
-const PORT = 3000;
-  
+
+const PORT = process.env.PORT || 5000;
+
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
