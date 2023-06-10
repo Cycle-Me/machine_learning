@@ -24,13 +24,13 @@ const recomendation = (req, res) => {
         {
           id: 2,
           name: "Enchanted Rose",
-          image: "",
+          image: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Plastik%20-%20Enchanted%20Rose.jpg",
           desc: "https://www.youtube.com/watch?v=cGJdhgCA9JE",
         },
         {
           id: 3,
           name: "Vas Bunga Pararel",
-          image: "",
+          image: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Plastik%20-%20Vas%20Bunga%20Pararel.jpg",
           desc: "https://youtu.be/hYDkLNW4deU",
         },
         {
@@ -42,7 +42,7 @@ const recomendation = (req, res) => {
         {
           id: 5,
           name: "Wadah Serbaguna",
-          image: "",
+          image: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Plastik%20-%20Wadah%20Serbaguna.jpg",
           desc: "https://youtu.be/W-0svOtUc-U",
         },
         {
@@ -54,13 +54,13 @@ const recomendation = (req, res) => {
         {
           id: 7,
           name: "Rak Sudut",
-          image: "",
+          image: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Plastik%20-%20Rak%20Sudut.jpg",
           desc: "https://youtu.be/-l7rjLYDlhA",
         },
         {
           id: 8,
           name: "Pen Holder",
-          image: "",
+          image: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Plastik%20-%20Pen%20Holder.jpg",
           desc: "https://youtu.be/ebvbcGuWXZ4",
         },
         {
@@ -72,7 +72,7 @@ const recomendation = (req, res) => {
         {
           id: 10,
           name: "Dekorasi Selamat Datang",
-          image: "",
+          image: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Plastik%20-%20Dekorasi%20Selamat%20Datang.jpg",
           desc: "https://youtu.be/EPoDzLTlmyY",
         },
         {
@@ -346,7 +346,7 @@ const recomendation = (req, res) => {
         {
           id: 1,
           name: "Hiasan Ruangan",
-          image: "", // link gambar
+          image: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Kain%20-%20Room%20Dekor.jpg", // link gambar
           desc: "https://youtu.be/bBeHHhfxXJI",
         },
         {
@@ -401,37 +401,37 @@ const recomendation = (req, res) => {
         {
           id: 1,
           name: "Dompet",
-          image: "", // link gambar
+          image: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Kotak%20Minum%20-%20Dompet.jpg", // link gambar
           desc: "https://www.youtube.com/watch?v=vlgmtESTGMs",
         },
         {
           id: 2,
           name: "Penyimpan Pensil",
-          image: "",
+          image: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Kotak%20Minum%20-%20Tempat%20Pensil.jpg",
           desc: "https://www.youtube.com/watch?v=RcDCr0ggZZo",
         },
         {
           id: 3,
           name: "Rak Gantung",
-          image: "",
+          image: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Kotak%20Minum%20-%20Rak%20Gantung.jpg",
           desc: "https://www.youtube.com/watch?v=buNP-2QGSUs",
         },
         {
           id: 4,
           name: "Phone Case",
-          image: "",
+          image: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Kotak%20Minum%20-%20Phone%20case.jpg",
           desc: "https://www.youtube.com/watch?v=3L3rTnYUklE",
         },
         {
           id: 5,
           name: "Dompet Koin",
-          image: "",
+          image: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Kotak%20Minum%20-%20Dompet%20Koin.jpg",
           desc: "https://www.youtube.com/watch?v=J3_fEY95Kqs",
         },
         {
           id: 6,
           name: "Vas Bunga",
-          image: "",
+          image: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Kotak%20Minum%20-%20Vas%20Bunga.jpg",
           desc: "https://www.youtube.com/watch?v=gYu3SHCj8C4",
         },
       ],
@@ -444,25 +444,25 @@ const recomendation = (req, res) => {
         {
           id: 1,
           name: "Hiasan Dinding",
-          image: "", // link gambar
+          image: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Styrofoam%20-%20Hiasan%20Dinding.jpg", // link gambar
           desc: "https://www.youtube.com/watch?v=XPB_W33iA1g",
         },
         {
           id: 2,
           name: "Bonsai Sakura",
-          image: "",
+          image: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Styrofoam%20-%20Bonsai%20Sakura.jpg",
           desc: "https://www.youtube.com/watch?v=IoHXIlzpUYg",
         },
         {
           id: 3,
           name: "Hiasan Dinding Styrofoam",
-          image: "",
+          image: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Styrofoam%20-%20Hiasan%20Dinding2.jpg",
           desc: "https://www.youtube.com/watch?v=NF6iwWe_f0Y",
         },
         {
           id: 4,
           name: "Lampu Hias",
-          image: "",
+          image: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Styrofoam%20-%20Lampu%20Hias.jpg",
           desc: "https://www.youtube.com/watch?v=d9obx_ylB3c",
         },
       ],
@@ -475,25 +475,25 @@ const recomendation = (req, res) => {
         {
           id: 1,
           name: "Tempat Sampah Organik",
-          image: "", // link gambar
+          image: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Organik%20-%20tempat%20sampah.jpg", // link gambar
           // desc: "", tidak ada direct link nya
         },
         {
           id: 2,
           name: "Eco Enzyme dari Sayur dan Buah",
-          image: "",
+          image: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Organik%20-%20Eco%20Enzyme.jpg",
           desc: "http://cybex.pertanian.go.id/artikel/100494/pembuatan-eco-enzym-untuk-pertanian/",
         },
         {
           id: 3,
           name: "Pupuk Organik dari Nasi",
-          image: "",
+          image: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Organik%20-%20Pupuk%20Cair%20dari%20Nasi.jpg",
           desc: "https://www.youtube.com/watch?v=5yNldnmFNz4",
         },
         {
           id: 4,
           name: "Pupuk Organik dari Daun",
-          image: "",
+          image: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Organik%20-%20Pupuk%20dari%20Daun.jpg",
           desc: "http://cybex.pertanian.go.id/mobile/artikel/87753/Cara-Membuat-Pupuk-Organik-Dari-Daun/",
         },
       ],
