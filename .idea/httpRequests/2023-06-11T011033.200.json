@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Lentera",
+    "image": "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Kaleng%20-%20Lentera.jpg",
+    "desc": "https://www.youtube.com/watch?v=ajVDmEGFKKc"
+  },
+  {
+    "id": 2,
+    "name": "Enchanted Rose",
+    "image": "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Plastik%20-%20Enchanted%20Rose.jpg",
+    "desc": "https://www.youtube.com/watch?v=cGJdhgCA9JE"
+  },
+  {
+    "id": 3,
+    "name": "Vas Bunga Pararel",
+    "image": "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Plastik%20-%20Vas%20Bunga%20Pararel.jpg",
+    "desc": "https://youtu.be/hYDkLNW4deU"
+  },
+  {
+    "id": 4,
+    "name": "Vas Bunga",
+    "image": "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Kertas%20-%20Vas%20Bunga.jpg",
+    "desc": "https://youtu.be/MTZnGNrePXY"
+  },
+  {
+    "id": 5,
+    "name": "Wadah Serbaguna",
+    "image": "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Plastik%20-%20Wadah%20Serbaguna.jpg",
+    "desc": "https://youtu.be/W-0svOtUc-U"
+  },
+  {
+    "id": 6,
+    "name": "Rak Gantung",
+    "image": "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Kotak%20Minum%20-%20Rak%20Gantung.jpg",
+    "desc": "https://youtu.be/wTeeAr2HEKM"
+  },
+  {
+    "id": 7,
+    "name": "Rak Sudut",
+    "image": "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Plastik%20-%20Rak%20Sudut.jpg",
+    "desc": "https://youtu.be/-l7rjLYDlhA"
+  },
+  {
+    "id": 8,
+    "name": "Pen Holder",
+    "image": "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Plastik%20-%20Pen%20Holder.jpg",
+    "desc": "https://youtu.be/ebvbcGuWXZ4"
+  },
+  {
+    "id": 9,
+    "name": "Keranjang",
+    "image": "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Kertas%20-%20Keranjang%20Kecil.jpg",
+    "desc": "https://youtu.be/WpGynk87f7o"
+  },
+  {
+    "id": 10,
+    "name": "Dekorasi Selamat Datang",
+    "image": "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Plastik%20-%20Dekorasi%20Selamat%20Datang.jpg",
+    "desc": "https://youtu.be/EPoDzLTlmyY"
+  },
+  {
+    "id": 11,
+    "name": "Dompet",
+    "image": "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Kotak%20Minum%20-%20Dompet.jpg",
+    "desc": "https://youtu.be/qhvMipgRDMc"
+  },
+  {
+    "id": 12,
+    "name": "Dekorasi Dinding",
+    "image": "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Kertas%20-%20Dekorasi%20Dinding.jpg",
+    "desc": "https://youtu.be/f4V0yEtXtH4"
+  }
+]
