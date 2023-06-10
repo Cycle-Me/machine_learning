@@ -13,7 +13,7 @@ const recomendation = (req, res) => {
     {
       name: "Plastic",
       id: 1,
-      icon: " ... ", // ... diisi link gambar plastik dari storage.googleapis.com
+      icon: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Waste%20-%20Plastik.png", // ... diisi link gambar plastik dari storage.googleapis.com
       recomendation: [
         {
           id: 1,
@@ -92,7 +92,7 @@ const recomendation = (req, res) => {
     {
       name: "Paper and Cardboard",
       id: 2,
-      icon: "", // link gambar kertas
+      icon: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Waste%20-%20Kertas.jpg", // link gambar kertas
       recomendation: [
         {
           id: 1,
@@ -219,7 +219,7 @@ const recomendation = (req, res) => {
     {
       name: "Glass",
       id: 3,
-      icon: "", // LINK GAMBAR GELAS
+      icon: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Waste%20-%20Kaca.jpg", // LINK GAMBAR GELAS
       recomendation: [
         {
           id: 1,
@@ -286,7 +286,7 @@ const recomendation = (req, res) => {
     {
       name: "Aluminium",
       id: 4,
-      icon: "", // link gambar kaleng atau panci
+      icon: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Waste%20-%20Kaleng.jpg", // link gambar kaleng atau panci
       recomendation: [
         {
           id: 1,
@@ -341,7 +341,7 @@ const recomendation = (req, res) => {
     {
       name: "Textiles",
       id: 5,
-      icon: "", // link gambar tekstil
+      icon: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Waste%20-%20Kain.jpg", // link gambar tekstil
       recomendation: [
         {
           id: 1,
@@ -396,7 +396,7 @@ const recomendation = (req, res) => {
     {
       name: "Carton",
       id: 6,
-      icon: "", // link gambar kotak susu
+      icon: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Waste%20-%20Kotak%20Minuman.jpg", // link gambar kotak susu
       recomendation: [
         {
           id: 1,
@@ -439,7 +439,7 @@ const recomendation = (req, res) => {
     {
       name: "Styrofoam",
       id: 7,
-      icon: "", // link gambar kotak susu
+      icon: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Waste%20-%20Styrofoam.jpg", // link gambar kotak susu
       recomendation: [
         {
           id: 1,
@@ -470,7 +470,7 @@ const recomendation = (req, res) => {
     {
       name: "Organic Waste",
       id: 8,
-      icon: "", // link gambar kotak susu
+      icon: "https://storage.googleapis.com/cycleme-pictures/Gambar%20Produk/Waste%20-%20Organic.jpg", // link gambar kotak susu
       recomendation: [
         {
           id: 1,
