@@ -50,8 +50,14 @@ def predict():
     predictions = model.predict(preprocessed_image)
     predicted_class = np.argmax(predictions[0])
     class_label = labels[predicted_class]
+    accuracy = predictions[0][predicted_class] * 100
 
-    return jsonify({'class_label': class_label})
+    response = {
+        'class_label': class_label,
+        'accuracy': f'{accuracy:.2f}%'
+    }
+
+    return jsonify(response)
 
 
 if __name__ == "__main__":
