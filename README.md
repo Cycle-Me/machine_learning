@@ -10,10 +10,10 @@ Repo for Bangkit 2023 Product-based Capstone on Machine Learning Path
 * Save_Model: This component involves saving the final trained model in both h5 and JSON formats. This allows for easy storage and later retrieval of the model for future use. The final model we used is model_MobileNetV3Large.h5.
 
 ### ML-api Branch
-The Ml-api comprises of prediction API functions that utilize the .py file format and are implemented using the Flask library
+The Ml-api comprises of prediction API functions that utilize the .py file format and are implemented using the Flask library. For the implementation steps you can go to [this link](https://github.com/Cycle-Me/backend#apis-documentation)
 
 ### Recommendation Branch
-The Recommendation Branch consists of recommendation API functions implemented in the .js file format, leveraging the Express and Cors libraries
+The Recommendation Branch consists of recommendation API functions implemented in the .js file format, leveraging the Express and Cors libraries. For the implementation steps you can go to [this link](https://github.com/Cycle-Me/backend#apis-documentation)
 
 ## Documentation
 * Collect the dataset
